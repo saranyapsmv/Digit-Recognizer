@@ -56,7 +56,7 @@ To configure and deploy the Digit Recognizer application, follow these step-by-s
 
 1. Clone the project repository:
    ```markdown
-   git clone https://github.com/Harikrishnan2202/Digit-Recogniser.git
+   git clone https://github.com/saranyapsmv/Digit-Recognizer.git
    ```
 2. Navigate to the project directory:
    ```markdown
